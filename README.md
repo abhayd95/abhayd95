@@ -6,7 +6,7 @@
 ## 🚀 About Me
 💻 Passionate **Full Stack Developer** & creative **Video Editor**.  
 🎯 From **basic to advanced** video editing with professional tools.  
-🏢 Currently working at **Corementores Pvt. Ltd. company**  
+🏢 Currently working at **coder street technology**  
 🌱 Learning **Next.js**, **UI/UX**, and **advanced backend systems**.  
 🤝 Open to collaborations on **full-stack projects & creative editing**.  
 
