@@ -29,14 +29,12 @@
 ---
 
 ## 📊 GitHub Stats & Activity
-![Abhay's GitHub stats](https://github-readme-stats.vercel.app/api?username=abhayvirus&show_icons=true&theme=tokyonight)
+
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=abhayvirus&theme=tokyonight&hide_border=false)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=abhayvirus&layout=compact&theme=tokyonight)
+
 
 ---
 
-## 📈 Activity Graph
-[![Abhay's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=abhayvirus&theme=react-dark)](https://github.com/abhayvirus)
 
 ---
 
