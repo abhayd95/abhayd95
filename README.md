@@ -1,5 +1,5 @@
 <!-- Typing Animation -->
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?size=30&duration=4000&color=1A73E8&center=true&vCenter=true&width=800&lines=Hi+%F0%9F%91%8B+I'm+Abhay+Tiwari;Ai-Full+Stack+Engneer;Video+Editor+%7C+Basic+to+Advanced;Working+at+Corementores+Pvt.+Ltd.)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?size=30&duration=4000&color=1A73E8&center=true&vCenter=true&width=800&lines=Hi+%F0%9F%91%8B+I'm+Abhay+Tiwari;Ai-Full+Stack+Engineer;Video+Editor+%7C+Basic+to+Advanced;Working+at+Corementores+Pvt.+Ltd.)](https://git.io/typing-svg)
 
 ---
 
